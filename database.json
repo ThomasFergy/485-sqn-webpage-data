@@ -1,0 +1,16 @@
+{
+  "flights": [
+    {
+      "name": 1,
+      "points": 0
+    },
+    {
+      "name": 2,
+      "points": 0
+    },
+    {
+      "name": "RTF",
+      "points": 0
+    }
+  ]
+}
