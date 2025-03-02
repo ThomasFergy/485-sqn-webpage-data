@@ -2,15 +2,15 @@
   "flights": [
     {
       "name": 1,
-      "points": 0
+      "points": 10
     },
     {
       "name": 2,
-      "points": 0
+      "points": 20
     },
     {
       "name": "RTF",
-      "points": 0
+      "points": 5
     }
   ]
 }
